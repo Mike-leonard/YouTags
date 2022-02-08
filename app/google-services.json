@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "139346535638",
+    "firebase_url": "https://store-app-control-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "store-app-control",
+    "storage_bucket": "store-app-control.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139346535638:android:7ac72116cd25fe98be9577",
+        "android_client_info": {
+          "package_name": "com.leonard.healthmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139346535638-al74cpd7m59co8kqmnhmj9muchjalb5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn-U_rUvPFzaWvMOJIcuCqn7146Ey3jGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139346535638-al74cpd7m59co8kqmnhmj9muchjalb5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139346535638:android:2d8a1ca8f0455aaebe9577",
+        "android_client_info": {
+          "package_name": "com.leonard.musicplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139346535638-al74cpd7m59co8kqmnhmj9muchjalb5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn-U_rUvPFzaWvMOJIcuCqn7146Ey3jGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139346535638-al74cpd7m59co8kqmnhmj9muchjalb5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139346535638:android:6a71139653cd14d1be9577",
+        "android_client_info": {
+          "package_name": "com.leonard.youtags"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139346535638-al74cpd7m59co8kqmnhmj9muchjalb5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn-U_rUvPFzaWvMOJIcuCqn7146Ey3jGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139346535638-al74cpd7m59co8kqmnhmj9muchjalb5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
